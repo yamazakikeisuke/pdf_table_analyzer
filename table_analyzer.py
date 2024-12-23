@@ -5,13 +5,6 @@ import numpy as np
 import pandas as pd
 import os
 
-import io
-import zipfile
-import urllib.request
-import zipfile
-import requests
-import shutil
-
 #pdfファイルに含まれる表データを抽出するプログラム
 #pdfは「日本中学校体育連盟」の「加盟校調査」（https://nippon-chutairen.or.jp/data/）を例にしています
 
